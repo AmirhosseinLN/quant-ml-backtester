@@ -132,19 +132,9 @@ An interactive Streamlit dashboard is included for exploration and analysis:
 - Strategy comparison metrics
 - Feature importance visualization
 
-### Run locally
-
-```bash
-streamlit run dashboard/app.py
-
-
-### Future Work
-- Walk-forward validation
-- Gradient boosting models (XGBoost / LightGBM)
-- Regime detection and dynamic allocation
-- Online deployment of the dashboard
 
 ## Author
 
 **Amirhossein Latifinavid**  
-[LinkedIn Profile](https://www.linkedin.com/in/amirhossein-latifinavid-5923272a7)
+
+[Connect on LinkedIn](https://www.linkedin.com/in/amirhossein-latifinavid-5923272a7)
