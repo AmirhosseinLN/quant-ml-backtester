@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+plotly
+yfinance
+fredapi
+statsmodels
+tqdm
+pyarrow
+pydantic
+pyyaml
+jupyterlab
+ipykernel
+vectorbt

@@ -1,0 +1,22 @@
+name: quant-ml
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - plotly
+  - statsmodels
+  - jupyterlab
+  - ipykernel
+  - pyarrow
+  - pyyaml
+  - tqdm
+  - pip
+  - pip:
+      - yfinance
+      - fredapi
+      - vectorbt
