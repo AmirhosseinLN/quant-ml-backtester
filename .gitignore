@@ -25,3 +25,6 @@ artifacts/
 
 # Logs
 *.log
+
+.virtual_documents/
+.ipynb_checkpoints/
