@@ -3,6 +3,11 @@ Machine Learning–Driven Trading Strategy with Backtesting & Interactive Dashbo
 
 ---
 
+## Live Demo
+
+https://quant-ml-backtester-ugmzttxqshysd3cfasygx4.streamlit.app/
+
+---
 ## Overview
 
 This project implements a full quantitative research pipeline for developing and evaluating systematic trading strategies using both traditional approaches and machine learning models.
